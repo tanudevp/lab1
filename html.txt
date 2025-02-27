@@ -1,0 +1,7 @@
+<html>
+<head>
+<title> DEVOPS </title>
+<body>
+<p> This is testing lab1 for DEVOPS</p>
+</html>
+
